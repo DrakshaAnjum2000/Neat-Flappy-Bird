@@ -1,6 +1,16 @@
-# Neat-Flappy-Bird
-"Flappy Bird" is a simple yet addictive mobile game that gained immense popularity when it was released in 2013. While it is no longer available on app stores, it remains a classic example of minimalist game design. Flappy Bird is an incredibly straightforward and deceptively challenging mobile game.
-It is also an AI that plays flappy bird! Using the NEAT python module.
+[![Run on Repl.it](https://repl.it/badge/github/techwithtim/NEAT-Flappy-Bird)](https://repl.it/github/techwithtim/NEAT-Flappy-Bird)
+
+
+# NEAT-Flappy-Bird
+An AI that plays flappy bird! Using the NEAT python module.
 
 # Instructions
-Simply run flappy_bird.py and watch an AI start training itself to play the game of flappy bird!
+Simply run *flappy_bird.py* and watch an AI start training itself to play the game of flappy bird!
+
+# Run in Gitpod
+
+You can also run NEAT-Flappy-Bird in Gitpod, a free online dev environment for GitHub:
+
+If you're intersted in a paid subscription with GitPod use the coupon code: TECHWITHTIM19
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/techwithtim/NEAT-Flappy-Bird/blob/master/flappy_bird.py)
